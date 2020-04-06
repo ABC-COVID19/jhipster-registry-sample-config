@@ -12,4 +12,4 @@ jhipster:
     security:
         authentication:
             jwt:
-                secret: bXktc2VjcmV0LXRva2VuLXRvLWNoYW5nZS1pbi1wcm9kdWN0aW9uLWFuZC10by1rZWVwLWluLWEtc2VjdXJlLXBsYWNl
+                secret: NTIzZjQ5MzhmMDgxODQ4NDViOThjN2E1YjM3ZDJkOTg0YjhmZGVmNGJjNTc5OTc1YzgxNzExZmYyNDNlM2ZjODRkODQ1NGEwMTdkZjBhNGM4MGY4MDYyZDQ0YTg5N2UyZDUzOGFhYjNkNWNiMWMxMzQ0NzMwNjBhMmJhZjZkMzE=
